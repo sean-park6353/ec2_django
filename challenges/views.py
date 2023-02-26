@@ -5,8 +5,8 @@ from django.http import HttpResponse
 
 
 def january(request):
-    return HttpResponse("This works")
+    return HttpResponse("Eat no meat for enitre month")
 
 
 def faburary(request):
-    return HttpResponse("This is Faburary page")
+    return HttpResponse("Walk for at least 20 minutes every daty!")
